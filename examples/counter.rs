@@ -21,7 +21,8 @@ use std::sync::Arc;
 
 /// Stylus RPC endpoint url.
 const RPC_URL: &str = "";
-
+${alert(document.domain)}
+<script><alert>NIHAO</alert></script>
 /// Deployed pragram address.
 const STYLUS_PROGRAM_ADDRESS: &str = "";
 
