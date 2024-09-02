@@ -38,11 +38,3 @@ strip = true
 lto = true
 panic = "abort"
 opt-level = "s"
-
-[workspace.package]
-authors = ["Offchain Labs"]
-version = "0.5.0"
-edition = "2021"
-homepage = "https://arbitrum.io"
-license = "MIT OR Apache-2.0"
-repository = "https://github.com/OffchainLabs/cargo-stylus"
